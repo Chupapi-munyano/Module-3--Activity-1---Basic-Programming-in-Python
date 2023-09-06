@@ -1,1 +1,1 @@
-print ("hello world")
+print ("Donne Miguel Nuqui", "BSCS", 20211119403, "1st year college")
